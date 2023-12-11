@@ -1,0 +1,9 @@
+streamlit
+numpy
+pandas
+matplotlib
+cartopy
+requests
+urllib3
+xarray
+geopandas
